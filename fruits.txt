@@ -1,7 +1,0 @@
-apple
-mango 
-orange
-banana
-kiwi
-lychee
-
