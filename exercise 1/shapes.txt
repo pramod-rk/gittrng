@@ -1,0 +1,4 @@
+ triangle
+ square
+ pentagon
+ hexagon
