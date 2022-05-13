@@ -2,3 +2,7 @@
  square
  pentagon
  hexagon
+ rhombus
+ parallelogram
+ decagon
+
