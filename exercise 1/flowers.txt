@@ -1,8 +1,8 @@
-Rose
-Sunflower
-Lily
-Dandelion
-Orchid
-Tulip
-Snowdrop
-Cherry blossom
+1) Rose
+2) Sunflower
+3) Lily
+4) Dandelion
+5) Orchid
+6) Tulip
+7) Snowdrop
+8) Cherry blossom
