@@ -1,5 +1,5 @@
-Tiger
-Lion
-Elephant
-Cat
-Dog
+1) Tiger
+2) Lion
+3) Elephant
+4) Cat
+5) Dog
